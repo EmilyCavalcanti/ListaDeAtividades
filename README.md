@@ -1,3 +1,3 @@
-<h5 align="center">  ACELERADORA ÁGIL </h5>
+<h3>  ACELERADORA ÁGIL </h3>
 
-#ExerciciO escolhido: Criação de Layout
+#Exercicio escolhido: Criação de Layout
